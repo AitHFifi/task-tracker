@@ -20,4 +20,4 @@ mvn compile
 mvn exec:java -Dexec.mainClass="com.tasktracker.Main"
 ```
 
-Project URL: [Task Tracker](https://github.com/AitHFifi/task-tracker).
+Project URL: [Task Tracker](https://roadmap.sh/projects/task-tracker).
